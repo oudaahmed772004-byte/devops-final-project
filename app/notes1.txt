@@ -1,0 +1,4 @@
+Project idea list:
+1. Build a system info dashboard
+2. Automate daily backups
+3. Containerize the notes app with Docker

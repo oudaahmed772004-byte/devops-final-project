@@ -1,0 +1,3 @@
+Reminder:
+Submit the final project link on Moodle before the deadline.
+Double check the repository is set to Public.

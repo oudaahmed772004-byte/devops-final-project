@@ -1,0 +1,4 @@
+Meeting notes - DevOps course:
+- Review Git branching strategy
+- Prepare Docker demo
+- Test GitHub Actions workflow before submission

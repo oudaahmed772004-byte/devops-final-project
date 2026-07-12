@@ -1,0 +1,19 @@
+# Ignore version control and local dev files when building the image
+.git
+.gitignore
+.github
+
+# Ignore Python cache/venv artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ignore logs and backups - not needed inside the image
+logs/
+backup/
+
+# Ignore local OS/editor files
+.DS_Store
+.vscode/
+*.swp
