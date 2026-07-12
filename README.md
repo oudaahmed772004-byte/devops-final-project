@@ -1,3 +1,4 @@
+<img width="1341" height="653" alt="d1" src="https://github.com/user-attachments/assets/a6b92197-cec9-482b-afd0-69ef891016eb" />
 # DevOps Final Project — Notes Info Server
 
 **Name:** [ahmed hani abuowda]
@@ -59,9 +60,12 @@ Commit history shows:
 - Repository cloned into a separate folder to verify history and structure.
 
 **Screenshots:**
-- [ ] Repository files on GitHub after the first push
+- [<img width="1341" height="653" alt="d1" src="https://github.com/user-attachments/assets/9e590c5f-cd6c-4e80-a60d-18a3f0f762fa" />
+ ] Repository files on GitHub after the first push
 - [ ] `feature/github-setup` branch visible on GitHub
-- [ ] Merged Pull Request confirmation page
+- [ ] Merged Pull Req<img widt<img width="1246" height="687" alt="d6" src="https://github.com/user-attachments/assets/8a2e07a6-84d4-44da-b023-797ba9b0b66e" />
+h="1361" height="648" alt="d7" src="https://github.com/user-attachments/assets/35569ef4-0b27-4136-b10c-a3e26fa7e9db" />
+uest confirmation page
 - [ ] `git log --oneline` inside the freshly cloned copy
 
 ---
@@ -100,14 +104,18 @@ docker run -d -p 5000:5000 \
   --name notes-info-server \
   yourname/notes-info-server:v1.0
 
-curl http://localhost:5000/
+curl http://localhost:5000/<img width="1341" height="653" alt="d1" src="https://github.com/user-attachments/assets/501306d2-f8d5-4986-ae1c-805685a4309a" />
+
 curl http://localhost:5000/health
 docker images
 ```
 
 **Screenshots:**
 - [ ] `docker build` completing successfully
-- [ ] `docker images` showing the tagged image
+- [ <img width="1366" height="158" alt="d13" src="https://github.com/user-attachments/assets/cca79174-4bcc-4e2e-9489-390a1d58f9de" />
+<img width="1365" height="93" alt="d11" src="https://github.com/user-attachments/assets/a979ac3c-3370-461c-b626-b8d31fa0caf0" />
+<img width="1366" height="65" alt="d12" src="https://github.com/user-attachments/assets/fa7b71ff-47ea-4e73-ad6b-ef3445780b17" />
+] `docker images` showing the tagged image
 - [ ] `curl`/browser output proving the container runs correctly
 
 ---
@@ -120,11 +128,13 @@ plus a recursive file listing — a minimal smoke test confirming the
 repository checks out correctly in a clean CI environment.
 
 **Screenshot:**
-- [ ] Successful (green ✅) run in the Actions tab
+- [<img width="1341" height="653" alt="d1" src="https://github.com/user-attachments/assets/5e0cf5ec-4ce3-4f87-941b-dddea98f5a55" />
+ ] Successful (green ✅) run in the Actions tab
 
 ---
 
 ## Repository Structure
+<img width="1366" height="65" alt="d12" src="https://github.com/user-attachments/assets/2ceb53d1-0abf-4959-beb5-72c9e2efd50b" />
 
 ```
 devops-final-project/
